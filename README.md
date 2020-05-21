@@ -170,4 +170,8 @@ Give the credentials. You will be logged in.
 
 MIT License
 
-Copyright (c) 2020, <a href="https://twitter.com/rediandev" target="_blank">Redian Marku</a>. All rights reserved.
+CONTACT ME FOR HELP - https://twitter.com/erRaghavKhanna
+
+
+Copyright (c) 2020, <a href="#" target="_blank">Redian Marku</a>. All rights reserved.
+
