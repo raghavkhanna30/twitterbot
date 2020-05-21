@@ -1,6 +1,8 @@
-# Javascript Twitter Bot by Redian Marku
+# Javascript Twitter Bot Credits - Redian Marku
 
-Follow: https://twitter.com/rediandev
+Sample: https://twitter.com/30daysofkotlin
+
+devloper : https://twitter.com/30daysofkotlin
 
 
 ## Features
