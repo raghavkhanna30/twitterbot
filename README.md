@@ -2,7 +2,7 @@
 
 Sample: https://twitter.com/30daysofkotlin
 
-devloper : https://twitter.com/30daysofkotlin
+devloper : https://twitter.com/erRaghavKhanna
 
 
 ## Features
