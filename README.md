@@ -1,6 +1,6 @@
-# Javascript Twitter Bot Credits - Redian Marku
+# Javascript Twitter Bot 
 
-Sample: https://twitter.com/30daysofkotlin
+Sample: https://twitter.com/theinfernobot
 
 devloper : https://twitter.com/erRaghavKhanna
 
@@ -173,5 +173,4 @@ MIT License
 CONTACT ME FOR HELP - https://twitter.com/erRaghavKhanna
 
 
-Copyright (c) 2020, <a href="#" target="_blank">Redian Marku</a>. All rights reserved.
 
